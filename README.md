@@ -1,4 +1,6 @@
 # OpenRiver
+<img width="1080" height="1080" alt="名称未設定のデザイン" src="https://github.com/user-attachments/assets/2f375b33-6d9d-4134-aa63-d5d566858cc7" />
+
 ## 🇺🇸 English (US)
 
 OpenRiver is a service where you can download free games and plugins. A strategy wiki can also be written and released simultaneously with the launch. At the moment, we don’t take any revenue at all. We are doing this purely out of a desire for everyone to enjoy. As a game download site, we support your fun.
